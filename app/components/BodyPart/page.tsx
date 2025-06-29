@@ -6,6 +6,7 @@ import SecondPage from "./page2";
 import ThirdPage from "./page3";
 import FourthPage from "./page4";
 import FivthPage from "./page5";
+import SixthPage from "./page6";
 function page() {
   return (
     <>
@@ -14,6 +15,7 @@ function page() {
       <ThirdPage />
       <FourthPage />
       <FivthPage />
+      <SixthPage />
     </>
   );
 }

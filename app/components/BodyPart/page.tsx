@@ -7,7 +7,7 @@ import ThirdPage from "./page3";
 import FourthPage from "./page4";
 import FivthPage from "./page5";
 import SixthPage from "./page6";
-export default function page() {
+export default function Bodypart() {
   return (
     <>
       <PageOne />

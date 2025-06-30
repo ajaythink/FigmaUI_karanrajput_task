@@ -1,6 +1,6 @@
 import React from "react";
 
- export default function navbar() {
+ export default function Navbar() {
   return (
     <div className="  flex justify-between py-6 px-10 z-30 bg-transparent fixed top-0 left-0 right-0 items-center backdrop-blur-sm shadow-lg">
       <div className="text-black font-extrabold text-4xl">LOGO</div>

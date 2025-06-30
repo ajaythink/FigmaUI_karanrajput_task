@@ -1,6 +1,6 @@
   import Image from "next/image";
-  import Navbar from "@/app/components/navbar/page";
-  import BodyPart from "@/app/components/bodypart/page";
+  import Navbar from "@/components/navbar";
+  import BodyPart from "@/components/bodypart";
   // import Uipart from "@/app/components/Uipart/page";
 
   export default function Home() {

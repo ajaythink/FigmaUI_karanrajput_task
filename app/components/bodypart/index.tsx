@@ -1,12 +1,12 @@
 "use client";
 import React from "react";
 import Image from "next/image";
-import PageOne from "./page1";
-import SecondPage from "./page2";
-import ThirdPage from "./page3";
-import FourthPage from "./page4";
-import FivthPage from "./page5";
-import SixthPage from "./page6";
+import PageOne from "./index1";
+import SecondPage from "./index2";
+import ThirdPage from "./index3";
+import FourthPage from "./index4";
+import FivthPage from "./index5";
+import SixthPage from "./index6";
 export default function Bodypart() {
   return (
     <>

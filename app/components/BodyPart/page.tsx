@@ -7,7 +7,7 @@ import ThirdPage from "./page3";
 import FourthPage from "./page4";
 import FivthPage from "./page5";
 import SixthPage from "./page6";
-function page() {
+export default function page() {
   return (
     <>
       <PageOne />
@@ -20,6 +20,6 @@ function page() {
   );
 }
 
-export default page;
+// export default page;
 
 //<Image className="origin-center rotate-45" src="/img/mountains.jpg" />origin-center
